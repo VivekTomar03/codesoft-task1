@@ -1,0 +1,47 @@
+header {
+    text-align: center;
+    font-size: xx-large;
+}
+body{
+    background-color: #00FCAA;
+}
+header .imgg {
+    width: 40%;
+    height: 80%;
+    margin-bottom: 40px;
+}
+section{
+    text-align: center;
+   margin-top: 80px;
+   background-color: #1BD86B;
+   width: 60%;
+   padding: 20px;
+   margin: auto;
+   box-shadow: rgba(240, 238, 239, 0.4) 5px 5px, rgba(255, 255, 255, 0.3) 10px 10px, rgba(255, 255, 255, 0.2) 15px 15px, rgba(255, 255, 255, 0.1) 20px 20px, rgba(255, 255, 255, 0.05) 25px 25px;
+}
+#legend{
+    font-size: xx-large;
+}
+
+.pointer {
+     display: flex;
+     flex-direction:column;
+     
+  }
+
+  .pointer h2 {
+    margin-left: 0%;
+  }
+  p , a{
+   
+    display: inline-block;
+    margin: auto;
+    margin: 5px;
+   
+    font-size: x-large;
+   
+    margin-top: 40px;
+  }
+  footer{
+    text-align: center;
+  }
